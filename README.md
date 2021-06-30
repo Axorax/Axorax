@@ -8,7 +8,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/acewardp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acewardp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCoIgEBRn2TeOnIAg46Y6log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aceward" height="30" width="40" /></a>
