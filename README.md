@@ -21,3 +21,4 @@ Aceward Playz - https://www.youtube.com/channel/UCfAHIQ1eAZ7a2L4QG0hMKeA
 __________________________________________________________
 Aceward Live - https://www.youtube.com/channel/UCCPrzsu_SAwCHS1nKOk4L6A
 __________________________________________________________
+<img src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
