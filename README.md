@@ -5,7 +5,8 @@
 <h3 align="center">Welcome to my profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aceward&show_icons=true&locale=en" alt="aceward" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aceward&show_icons=true&locale=en" alt="aceward" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
 
 
