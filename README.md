@@ -6,10 +6,13 @@
 
 ##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860141298730926090/9946_PLATINUM_AWARD.png" width="20"> About Me:</h3> 
 ###### Name: Aceward
-###### Age: <img src="https://media.discordapp.net/attachments/857500466627739668/860136770603450398/7751-cute1.gif" width="23">
+###### Age: <img src="https://media.discordapp.net/attachments/857500466627739668/860136770603450398/7751-cute1.gif" width="26">
+###### Hobby/Passion/Leisure: Programming <img src="https://media.discordapp.net/attachments/857500466627739668/860145351935918110/pepeprogramming.gif" width="26">
 ###### Favourite Subjects: Science & Computer Science
 
+
 ##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860139086564294676/796397993204514877.gif" width="27"> Statistics:</h3>
+<img src="https://metrics.lecoq.io/aceward1">
 <img src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
 
