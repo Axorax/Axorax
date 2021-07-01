@@ -10,6 +10,16 @@
 ###### Hobby/Passion/Leisure: Programming <img src="https://media.discordapp.net/attachments/857500466627739668/860145351935918110/pepeprogramming.gif" width="26">
 ###### Favourite Subjects: Science & Computer Science
 
+##### <h3> <img src="https://media.discordapp.net/attachments/824532887062839296/860150238693687306/facts_true.png" width="37"> Facts: </h3>
+##### • I think I am cute
+```py
+boy = "me"
+girl = "you"
+love = "you + me"
+print(love)
+print("=")
+print("love")
+```
 
 ##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860139086564294676/796397993204514877.gif" width="27"> Statistics:</h3>
 <img src="https://metrics.lecoq.io/aceward1">
