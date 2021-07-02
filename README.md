@@ -22,9 +22,9 @@ print("love")
 ```
 
 ##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860139086564294676/796397993204514877.gif" width="27"> Statistics:</h3>
-[![Metrics](https://metrics.lecoq.io/aceward1)](https://github.com/lowlighter/metrics)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
+[![Metrics](https://metrics.lecoq.io/aceward1)](https://github.com/lowlighter/metrics)
 
 
 <img src="https://media.discordapp.net/attachments/857500466627739668/860143542415917056/839108825340575765.gif" width="40"><img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me%3A">
