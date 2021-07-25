@@ -2,15 +2,15 @@
 
 <h6 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+My+name+is+Aceward"></h6>
 
-<h2 align="center"> <img src="https://media.discordapp.net/attachments/857500466627739668/860142418171396116/3951-vega-check-mark.gif" width="30"> <img src="https://media.discordapp.net/attachments/857500466627739668/860140320583057438/802736060743680051.gif" width="27"> Aceward <img src="https://media.discordapp.net/attachments/857500466627739668/860140320583057438/802736060743680051.gif" width="27"> <img src="https://media.discordapp.net/attachments/857500466627739668/860142418171396116/3951-vega-check-mark.gif" width="30"> </h2>
+<h2 align="center">  Aceward </h2>
 
-##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860141298730926090/9946_PLATINUM_AWARD.png" width="20"> About Me:</h3> 
+##### <h3> About Me:</h3> 
 ###### Name: Aceward
 ###### Age: <img src="https://media.discordapp.net/attachments/857500466627739668/860136770603450398/7751-cute1.gif" width="26">
-###### Hobby/Passion/Leisure: Programming <img src="https://media.discordapp.net/attachments/857500466627739668/860145351935918110/pepeprogramming.gif" width="26">
+###### Hobby/Passion/Leisure: Programming 
 ###### Favourite Subjects: Science & Computer Science
 
-##### <h3> <img src="https://media.discordapp.net/attachments/824532887062839296/860150238693687306/facts_true.png" width="37"> Facts: </h3>
+##### <h3>  Facts: </h3>
 ##### • I think I am cute
 ```py
 boy = "me"
@@ -21,14 +21,14 @@ print("=")
 print("love")
 ```
 
-##### <h3> <img src="https://media.discordapp.net/attachments/857500466627739668/860139086564294676/796397993204514877.gif" width="27"> Statistics:</h3>
+##### <h3> Statistics:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
 
 [![Metrics](https://metrics.lecoq.io/aceward1)](https://github.com/lowlighter/metrics)
 
 
-<img src="https://media.discordapp.net/attachments/857500466627739668/860143542415917056/839108825340575765.gif" width="40"><img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me%3A">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me%3A">
 <p align="left">
 <a href="https://twitter.com/acewardp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acewardp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCoIgEBRn2TeOnIAg46Y6log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aceward" height="30" width="40" /></a>
