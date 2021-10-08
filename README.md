@@ -27,6 +27,9 @@ print("love")
 
 [![Metrics](https://metrics.lecoq.io/aceward1)](https://github.com/lowlighter/metrics)
 
+##### <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/Aceward1/count.svg)
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me%3A">
 <p align="left">
 <a href="https://twitter.com/acewardp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acewardp" height="30" width="40" /></a>
