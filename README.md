@@ -23,6 +23,24 @@ print("love")
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceward&" alt="aceward" /></p>
 
+
+
+
+
+##### <h3>Statistics: </h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Aceward1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+
+
+
+
+
+
+
+
+
 [![Metrics](https://metrics.lecoq.io/aceward1)](https://github.com/lowlighter/metrics)
 
 ##### <h3> Visitor Count: </h3>
