@@ -5,7 +5,7 @@
 <h2 align="center">  Axorax </h2>
 
 ##### <h3> About Me:</h3> 
-###### Name: Aceward
+###### Name: Axorax
 ###### Age: <img src="https://media.discordapp.net/attachments/857500466627739668/860136770603450398/7751-cute1.gif" width="26">
 ###### Hobby/Passion/Leisure: Programming 
 ###### Favourite Subjects: Science & Computer Science
