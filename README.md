@@ -25,6 +25,6 @@ Thank you for reading! >.<
 </a>
 <a href="https://github.com/axorax/axorax">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=axorax&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=A53DFF&bg_color=1d1f21" alt="Axorax's GitHub Stats" />
-</a>
+</a><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me%3A">
