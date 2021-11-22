@@ -4,7 +4,7 @@
 axorax@github:~$ ./welcome.sh
 ```
 ```
-Hello! I'm Axorax. Previously known as Aceward. I like to make websites, YouTube videos, games, music and more!
+Hello! I'm Axorax. I like to make websites, YouTube videos, games, music and more!
 I enjoy studying science, programming and playing chess. I always appreciate feedback whether it is good or bad!
 
 I am currently a student. I try my best to study and make content alongside.
