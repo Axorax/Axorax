@@ -29,12 +29,14 @@ Thank you for reading! >.<
 
 ##### <h3>Connect with me: </h3>
 <a href="https://www.youtube.com/channel/UChNE29WeA7wbW5VC4JVb5Ag">
-  <img src="https://axorax.github.io/youtube.svg">
-</a><br>
-<h5>💖 Donate/Support: </h5>
+  <img src="https://axorax.github.io/badges/youtube.svg">
+</a>
 <a href="https://patreon.com/axorax/">
-  <img src="https://axorax.github.io/patreon.svg">
+  <img src="https://axorax.github.io/badges/patreon.svg">
 </a>
 <a href="https://www.buymeacoffee.com/axorax">
-  <img src="https://axorax.github.io/buymeacoffee.svg">
+  <img src="https://axorax.github.io/badges/buymeacoffee.svg">
 </a>
+<a href="https://www.github.com/axorax">
+  <img src="https://axorax.github.io/badges/github.svg">
+</a><br>
